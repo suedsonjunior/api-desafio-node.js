@@ -1,0 +1,16 @@
+{
+  "name": "api-desafio-node.js",
+  "version": "1.0.0",
+  "description": "Desafio da trilha de Node.js da Rocketseat: API REST para gerenciamento de tarefas (CRUD) com importação em massa via CSV.",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.6"
+  }
+}
